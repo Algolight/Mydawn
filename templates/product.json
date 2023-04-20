@@ -73,7 +73,7 @@
           "settings": {
             "heading": "Dimensions",
             "icon": "ruler",
-            "content": "<p>Refer to the image given in the image collection*<\/p><p><strong>If the there is no image given in the image collection then refer to the Size Chart provided below each product and is also available at Home page.<\/strong><\/p>",
+            "content": "<p>Refer to the image given in the image collection*<\/p><p><strong>If the there is no image given in the image collection then refer to the Size Chart provided at the end of each product and is also available at Home page.<\/strong><\/p>",
             "page": ""
           }
         },
@@ -159,6 +159,50 @@
         "padding_bottom": 36
       }
     },
+    "9088afd5-8d56-4c1d-afdd-5933f50922cb": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--18585364594972__9088afd5-8d56-4c1d-afdd-5933f50922cb-1682019350423f0c12-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text",
+            "heading_size": "h1"
+          }
+        },
+        "template--18585364594972__9088afd5-8d56-4c1d-afdd-5933f50922cb-1682019350423f0c12-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--18585364594972__9088afd5-8d56-4c1d-afdd-5933f50922cb-1682019350423f0c12-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18585364594972__9088afd5-8d56-4c1d-afdd-5933f50922cb-1682019350423f0c12-0",
+        "template--18585364594972__9088afd5-8d56-4c1d-afdd-5933f50922cb-1682019350423f0c12-1",
+        "template--18585364594972__9088afd5-8d56-4c1d-afdd-5933f50922cb-1682019350423f0c12-2"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "related-products": {
       "type": "related-products",
       "settings": {
@@ -181,6 +225,7 @@
   "order": [
     "main",
     "multicolumn",
+    "9088afd5-8d56-4c1d-afdd-5933f50922cb",
     "related-products"
   ]
 }

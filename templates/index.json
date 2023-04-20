@@ -54,14 +54,14 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Talk about your brand",
+            "heading": "Why we created this store?",
             "heading_size": "h1"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+            "text": "<p>We have only one mission and that is to deliver Eye-catching, beautiful trending bright apparels from all around the Globe with a easy and  comprehensive guidance and minimal effort required. <\/p>"
           }
         }
       },

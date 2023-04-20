@@ -55,7 +55,7 @@
           "type": "heading",
           "settings": {
             "heading": "Why we created this store?",
-            "heading_size": "h1"
+            "heading_size": "h2"
           }
         },
         "text": {

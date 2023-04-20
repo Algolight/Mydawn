@@ -159,6 +159,43 @@
         "padding_bottom": 36
       }
     },
+    "7ca57247-72f9-4fb0-a536-f91a192f142b": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--18585364594972__7ca57247-72f9-4fb0-a536-f91a192f142b-1682019350423f0c12-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Standard Size Chart",
+            "heading_size": "h2"
+          }
+        },
+        "template--18585364594972__7ca57247-72f9-4fb0-a536-f91a192f142b-1682019350423f0c12-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>*Please note that this chart should only be used if the product does not contain a specific size chart along with the rest of it's images.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--18585364594972__7ca57247-72f9-4fb0-a536-f91a192f142b-1682019350423f0c12-0",
+        "template--18585364594972__7ca57247-72f9-4fb0-a536-f91a192f142b-1682019350423f0c12-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Women-Sizes-Chart-2021.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "related-products": {
       "type": "related-products",
       "settings": {
@@ -181,6 +218,7 @@
   "order": [
     "main",
     "multicolumn",
+    "7ca57247-72f9-4fb0-a536-f91a192f142b",
     "related-products"
   ]
 }

@@ -73,7 +73,7 @@
           "settings": {
             "heading": "Dimensions",
             "icon": "ruler",
-            "content": "<p>Refer to the image given in the image collection*<\/p>",
+            "content": "<p>Refer to the image given in the image collection*<\/p><p><strong>If the there is no image given in the image collection then refer to the Size Chart provided below each product and is also available at Home page.<\/strong><\/p>",
             "page": ""
           }
         },

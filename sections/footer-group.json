@@ -23,7 +23,7 @@
           "type": "text",
           "settings": {
             "heading": "Our mission",
-            "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
+            "subtext": "<p>We have only one Mission and that is to deliver Eye-catching, beautiful trending bright apparels from all around the Globe with an easy and  comprehensive guidance and minimal effort. <\/p>"
           }
         }
       },
@@ -36,6 +36,7 @@
         "color_scheme": "background-1",
         "newsletter_enable": true,
         "newsletter_heading": "Subscribe to our emails",
+        "enable_follow_on_shop": true,
         "show_social": true,
         "enable_country_selector": false,
         "enable_language_selector": false,

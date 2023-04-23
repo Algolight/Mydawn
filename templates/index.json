@@ -13,7 +13,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "\"Charm is more valuable than beauty. You can resist beauty. But you can't resist charm.\"   - Audrey Tautou",
+            "text": "\"Wear your charm like the Sky shows off it's Stars\" - ZheCharm",
             "text_style": "body"
           }
         },
@@ -113,7 +113,7 @@
           "type": "column",
           "settings": {
             "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>\"In the stillness of the lake, a flower stands alone yet it's frangrance is enough to captivative an astray heart.\"<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -122,7 +122,7 @@
           "type": "column",
           "settings": {
             "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>\"In the Universe of your imagination, a Galaxy made of flowers and Stars surrounds you, create a masterpiece out of it\"<\/p>",
             "link_label": "",
             "link": ""
           }

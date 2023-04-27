@@ -159,6 +159,36 @@
         "padding_bottom": 36
       }
     },
+    "3980412b-5d17-45b7-ae31-fd0d7e39997a": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18585364594972__3980412b-5d17-45b7-ae31-fd0d7e39997a-168259142106407272-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Women Size Chart",
+            "heading_size": "h2"
+          }
+        },
+        "template--18585364594972__3980412b-5d17-45b7-ae31-fd0d7e39997a-168259142106407272-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>*Please note that this chart should only be used if the product does not contain a specific size chart along with the rest of it's images.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18585364594972__3980412b-5d17-45b7-ae31-fd0d7e39997a-168259142106407272-0",
+        "template--18585364594972__3980412b-5d17-45b7-ae31-fd0d7e39997a-168259142106407272-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": false,
+        "padding_top": 28,
+        "padding_bottom": 16
+      }
+    },
     "fa9d096e-1c7a-41b3-a377-889d1f95bc25": {
       "type": "image-banner",
       "blocks": {
@@ -217,6 +247,7 @@
   "order": [
     "main",
     "multicolumn",
+    "3980412b-5d17-45b7-ae31-fd0d7e39997a",
     "fa9d096e-1c7a-41b3-a377-889d1f95bc25",
     "related-products"
   ]

@@ -175,23 +175,11 @@
             "text": "*Please note that this chart should only be used if the product does not contain a specific size chart along with the rest of it's images.",
             "text_style": "body"
           }
-        },
-        "template--18585364594972__fa9d096e-1c7a-41b3-a377-889d1f95bc25-1682591111f3c03604-2": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
         }
       },
       "block_order": [
         "template--18585364594972__fa9d096e-1c7a-41b3-a377-889d1f95bc25-1682591111f3c03604-0",
-        "template--18585364594972__fa9d096e-1c7a-41b3-a377-889d1f95bc25-1682591111f3c03604-1",
-        "template--18585364594972__fa9d096e-1c7a-41b3-a377-889d1f95bc25-1682591111f3c03604-2"
+        "template--18585364594972__fa9d096e-1c7a-41b3-a377-889d1f95bc25-1682591111f3c03604-1"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Picture3_2a69d451-fd86-4519-9b96-3b84fb39ba4a.png",
@@ -205,43 +193,6 @@
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
         "show_text_below": false
-      }
-    },
-    "7ca57247-72f9-4fb0-a536-f91a192f142b": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--18585364594972__7ca57247-72f9-4fb0-a536-f91a192f142b-1682019350423f0c12-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Standard Size Chart",
-            "heading_size": "h2"
-          }
-        },
-        "template--18585364594972__7ca57247-72f9-4fb0-a536-f91a192f142b-1682019350423f0c12-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>*Please note that this chart should only be used if the product does not contain a specific size chart along with the rest of it's images.<\/p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "template--18585364594972__7ca57247-72f9-4fb0-a536-f91a192f142b-1682019350423f0c12-0",
-        "template--18585364594972__7ca57247-72f9-4fb0-a536-f91a192f142b-1682019350423f0c12-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Picture3_2a69d451-fd86-4519-9b96-3b84fb39ba4a.png",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "center",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 0,
-        "padding_bottom": 0
       }
     },
     "related-products": {
@@ -267,7 +218,6 @@
     "main",
     "multicolumn",
     "fa9d096e-1c7a-41b3-a377-889d1f95bc25",
-    "7ca57247-72f9-4fb0-a536-f91a192f142b",
     "related-products"
   ]
 }

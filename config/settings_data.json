@@ -143,9 +143,15 @@
 
     ],
     "blocks": {
-      "11667715999621601152": {
-        "type": "shopify:\/\/apps\/tiktok-ads-tiktok-pixels\/blocks\/turbo-tiktok\/0f61e244-e2c9-43da-9523-9762c9f7e6bf",
+      "5060955319488367234": {
+        "type": "shopify:\/\/apps\/droptracking-order-tracking\/blocks\/app-section\/f1ca5f84-c7d3-4ec9-87c0-3f4f36dd029a",
         "disabled": false,
+        "settings": {
+        }
+      },
+      "11667715999621601152": {
+        "type": "shopify:\/\/apps\/pixeltok-easy-pixel-installer\/blocks\/turbo-tiktok\/0f61e244-e2c9-43da-9523-9762c9f7e6bf",
+        "disabled": true,
         "settings": {
         }
       }

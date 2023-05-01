@@ -4,12 +4,11 @@
   "sections": {
     "announcement-bar": {
       "type": "announcement-bar",
-      "disabled": true,
       "blocks": {
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
-            "text": "Welcome to our store",
+            "text": "Use One-time Welcome Discount Code \"SHOPZHECHARM\" to get 15% OFF! of your entire Order. Don't forget to apply your Code at Checkout!",
             "link": ""
           }
         }

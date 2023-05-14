@@ -35,9 +35,9 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/woman-smiles-sitting-in-sunny-window.jpg",
-        "image_overlay_opacity": 40,
-        "image_height": "medium",
+        "image": "shopify:\/\/shop_images\/pexels-wesley-davi-3622619.jpg",
+        "image_overlay_opacity": 10,
+        "image_height": "large",
         "desktop_content_position": "bottom-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",

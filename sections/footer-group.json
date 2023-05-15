@@ -5,11 +5,11 @@
     "footer": {
       "type": "footer",
       "blocks": {
-        "footer-1": {
+        "6dda9605-4ca3-4552-9995-455752105c15": {
           "type": "link_list",
           "settings": {
-            "heading": "OUR POLICIES",
-            "menu": "footer"
+            "heading": "COMPANY INFO",
+            "menu": "footer-1"
           }
         },
         "70d9dae8-83b7-43b1-a5be-56c1f483a414": {
@@ -19,11 +19,11 @@
             "menu": "footer-2"
           }
         },
-        "6dda9605-4ca3-4552-9995-455752105c15": {
+        "footer-1": {
           "type": "link_list",
           "settings": {
-            "heading": "COMPANY INFO",
-            "menu": "footer-1"
+            "heading": "OUR POLICIES",
+            "menu": "footer"
           }
         },
         "footer-2": {
@@ -35,9 +35,9 @@
         }
       },
       "block_order": [
-        "footer-1",
-        "70d9dae8-83b7-43b1-a5be-56c1f483a414",
         "6dda9605-4ca3-4552-9995-455752105c15",
+        "70d9dae8-83b7-43b1-a5be-56c1f483a414",
+        "footer-1",
         "footer-2"
       ],
       "settings": {

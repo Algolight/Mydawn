@@ -12,6 +12,13 @@
             "menu": "footer"
           }
         },
+        "70d9dae8-83b7-43b1-a5be-56c1f483a414": {
+          "type": "link_list",
+          "settings": {
+            "heading": "HELP & SUPPORT",
+            "menu": "footer-2"
+          }
+        },
         "6dda9605-4ca3-4552-9995-455752105c15": {
           "type": "link_list",
           "settings": {
@@ -29,6 +36,7 @@
       },
       "block_order": [
         "footer-1",
+        "70d9dae8-83b7-43b1-a5be-56c1f483a414",
         "6dda9605-4ca3-4552-9995-455752105c15",
         "footer-2"
       ],

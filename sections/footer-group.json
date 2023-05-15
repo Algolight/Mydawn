@@ -8,8 +8,15 @@
         "footer-1": {
           "type": "link_list",
           "settings": {
-            "heading": "Our Policies",
+            "heading": "OUR POLICIES",
             "menu": "footer"
+          }
+        },
+        "6dda9605-4ca3-4552-9995-455752105c15": {
+          "type": "link_list",
+          "settings": {
+            "heading": "COMPANY INFO",
+            "menu": "footer-1"
           }
         },
         "footer-2": {
@@ -22,6 +29,7 @@
       },
       "block_order": [
         "footer-1",
+        "6dda9605-4ca3-4552-9995-455752105c15",
         "footer-2"
       ],
       "settings": {

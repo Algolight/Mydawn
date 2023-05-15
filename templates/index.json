@@ -6,8 +6,8 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Check out! Our 50% off Discount Scheme",
-            "heading_size": "h1"
+            "heading": "Check out <strong>NEW 50% OFF <\/strong>Discount Offer!",
+            "heading_size": "h0"
           }
         },
         "text": {

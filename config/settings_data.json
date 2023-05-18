@@ -125,7 +125,7 @@
     "show_vendor": false,
     "show_cart_note": false,
     "cart_drawer_collection": "",
-    "checkout_header_image": "shopify:\/\/shop_images\/BackGH1_2d7b059c-115e-4507-a0b5-095e3f46df27.png",
+    "checkout_logo_image": "shopify:\/\/shop_images\/LOGOReside1_64f8a4bc-c4b3-48f8-a1ec-768acd1dd350.png",
     "sections": {
       "main-password-header": {
         "type": "main-password-header",

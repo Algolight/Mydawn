@@ -131,6 +131,7 @@
     "checkout_body_background_color": "#f3f3f3",
     "checkout_input_background_color_mode": "white",
     "checkout_heading_font": "Lato",
+    "checkout_body_font": "Open Sans",
     "sections": {
       "main-password-header": {
         "type": "main-password-header",

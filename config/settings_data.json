@@ -128,7 +128,7 @@
     "checkout_logo_image": "shopify:\/\/shop_images\/LLogo.png",
     "checkout_logo_position": "center",
     "checkout_logo_size": "large",
-    "checkout_body_background_image": "shopify:\/\/shop_images\/ZC_900a6cb3-6fd9-4787-8cbd-84bc08284790.png",
+    "checkout_body_background_image": "shopify:\/\/shop_images\/LLogo.png",
     "checkout_body_background_color": "#f3f3f3",
     "checkout_input_background_color_mode": "white",
     "sections": {

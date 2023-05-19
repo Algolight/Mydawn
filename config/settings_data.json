@@ -128,7 +128,7 @@
     "checkout_logo_image": "shopify:\/\/shop_images\/LLogo.png",
     "checkout_logo_position": "center",
     "checkout_logo_size": "large",
-    "checkout_body_background_color": "#b5b5b5",
+    "checkout_body_background_color": "#f3f3f3",
     "sections": {
       "main-password-header": {
         "type": "main-password-header",

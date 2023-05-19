@@ -128,9 +128,9 @@
     "checkout_logo_image": "shopify:\/\/shop_images\/LLogo.png",
     "checkout_logo_position": "center",
     "checkout_logo_size": "large",
-    "checkout_body_background_image": "shopify:\/\/shop_images\/LLogo.png",
     "checkout_body_background_color": "#f3f3f3",
     "checkout_input_background_color_mode": "white",
+    "checkout_sidebar_background_image": "shopify:\/\/shop_images\/pexels-wesley-davi-4127860_06ed0dd4-feda-4120-b587-930652a930b9.jpg",
     "sections": {
       "main-password-header": {
         "type": "main-password-header",

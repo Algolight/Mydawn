@@ -83,7 +83,7 @@
       "settings": {
         "title": "Weekly Mega Discount (Selected Items Only)",
         "heading_size": "h1",
-        "description": "<p>Limited Offer (Items change weekly)<\/p>",
+        "description": "<p><strong>Limited Offer 35% OFF<\/strong> (Items change weekly)<\/p><p><strong>Buy 2 and get Total 50% OFF!<\/strong><\/p>",
         "show_description": false,
         "description_style": "body",
         "collection": "weekly-mega-discounts",

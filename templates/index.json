@@ -78,6 +78,34 @@
         "padding_bottom": 0
       }
     },
+    "2f4dfd59-0994-477e-9772-4bca473ae257": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Weekly Mega Discount (Selected Items Only)",
+        "heading_size": "h1",
+        "description": "<p>Limited Offer (Items change weekly)<\/p>",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "weekly-mega-discounts",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
@@ -153,6 +181,7 @@
   "order": [
     "image_banner",
     "rich_text",
+    "2f4dfd59-0994-477e-9772-4bca473ae257",
     "featured_collection",
     "multicolumn"
   ]

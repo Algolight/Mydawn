@@ -1,0 +1,240 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "vendor": {
+          "type": "text",
+          "settings": {
+            "text": "{{ product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "caption": {
+          "type": "text",
+          "settings": {
+            "text": "{{ product.metafields.descriptors.subtitle.value }}",
+            "text_style": "subtitle"
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": false
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+          }
+        },
+        "collapsible-row-0": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Materials",
+            "icon": "leather",
+            "content": "<p>Each piece is crafted with lightweight High quality materials.<\/p><p>*Refer to the description given above for further details.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible-row-1": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Shipping & Returns",
+            "icon": "truck",
+            "content": "<p>Our Product is carefully packed and shipped within 3 business days of purchase.<\/p><p>We use our expedited worldwide shipping and your package is guaranteed to be delivered within 3-15 business days after placing your order.<\/p><p> We offer a 30-day full money back guaranteed.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible-row-2": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Dimensions",
+            "icon": "ruler",
+            "content": "<p>*Refer to the image and description given in the product details or image collection*<\/p><p><strong>If the there is no image given in the image collection then refer to the Size Chart provided at the end of each product.<\/strong><\/p>",
+            "page": ""
+          }
+        },
+        "collapsible-row-3": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Care Instructions",
+            "icon": "heart",
+            "content": "<p>Leave some shine for other girls as well. <\/p><p>(｡•̀ᴗ-)✧<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "vendor",
+        "title",
+        "caption",
+        "price",
+        "variant_picker",
+        "quantity_selector",
+        "buy_buttons",
+        "description",
+        "collapsible-row-0",
+        "collapsible-row-1",
+        "collapsible-row-2",
+        "collapsible-row-3"
+      ],
+      "settings": {
+        "enable_sticky_info": true,
+        "media_size": "large",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "gallery_layout": "stacked",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "mobile_thumbnails": "hide",
+        "hide_variants": true,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 12
+      }
+    },
+    "multicolumn": {
+      "type": "multicolumn",
+      "blocks": {
+        "column-0": {
+          "type": "column",
+          "settings": {
+            "title": "Free Shipping",
+            "text": "<p>No need to worry about the shipping procedures. We offer free shipping (Except some products) and the tracking number will be delivered to you within the next 24hrs after your purchase.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column-1": {
+          "type": "column",
+          "settings": {
+            "title": "Hassle-Free Exchanges",
+            "text": "<p>If for whatever reason you are unsatisfied with your purchase. We offer a 30-day full money back guaranteed (we even cover shipping) no questions asked!<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column-0",
+        "column-1"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "3980412b-5d17-45b7-ae31-fd0d7e39997a": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18585364594972__3980412b-5d17-45b7-ae31-fd0d7e39997a-168259142106407272-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Women Size Chart",
+            "heading_size": "h2"
+          }
+        },
+        "template--18585364594972__3980412b-5d17-45b7-ae31-fd0d7e39997a-168259142106407272-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>*Please note that this chart should only be used if the product does not contain a specific size chart along with the rest of it's images.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18585364594972__3980412b-5d17-45b7-ae31-fd0d7e39997a-168259142106407272-0",
+        "template--18585364594972__3980412b-5d17-45b7-ae31-fd0d7e39997a-168259142106407272-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": false,
+        "padding_top": 28,
+        "padding_bottom": 16
+      }
+    },
+    "fa9d096e-1c7a-41b3-a377-889d1f95bc25": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Picture3_2a69d451-fd86-4519-9b96-3b84fb39ba4a.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "related-products": {
+      "type": "related-products",
+      "settings": {
+        "heading": "You may also like",
+        "heading_size": "h2",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 28
+      }
+    },
+    "ae223d14_1684076919": {
+      "type": "powr-form-builder",
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "ae223d14_1684076919",
+    "main",
+    "multicolumn",
+    "3980412b-5d17-45b7-ae31-fd0d7e39997a",
+    "fa9d096e-1c7a-41b3-a377-889d1f95bc25",
+    "related-products"
+  ]
+}

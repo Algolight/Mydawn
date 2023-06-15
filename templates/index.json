@@ -1,13 +1,5 @@
 {
   "sections": {
-    "ae223d14_1684076919": {
-      "type": "powr-form-builder",
-      "custom_css": [
-        "iframe{border-radius: 15px 15px 0px 0px}"
-      ],
-      "settings": {
-      }
-    },
     "image_banner": {
       "type": "image-banner",
       "blocks": {
@@ -187,7 +179,6 @@
     }
   },
   "order": [
-    "ae223d14_1684076919",
     "image_banner",
     "rich_text",
     "2f4dfd59-0994-477e-9772-4bca473ae257",
